@@ -1,0 +1,43 @@
+---
+title: "Aubrey Mpungose"
+image: images/aubrey.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 16em
+  links:
+    - icon: twitter 
+      text: Twitter
+      href: https://twitter.com/AubreyMabona
+    - icon: github 
+      text: GitHub
+      href: https://github.com/aubreympungose
+    - icon: envelope 
+      text: Email
+      href: mailto:mpungoseaubrey@gmail.com 
+---
+
+### Hello!
+
+I am Aubrey. I am a social scientist and geographer based at the University of KwaZulu Natal, Durban South Africa. My research interests are in political geography (neighbourhoods, political participation and behavior), urban studies, political economy of development and nature, and youth studies. I use data science, computational social science and quantitative methods in my research. I love programming and analysing data using R and Python.  
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+### Education
+
+
+<div class="topbr">
+<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **PhD in Geography, Ongoing**</p>
+<p class="custom-subtitle2">University of KwaZulu Natal, Durban, South Africa</p>
+
+<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **MSc Geography (first class), 2017**</p>  
+<p class="custom-subtitle2">University of KwaZulu Natal, Durban, South Africa</p>
+</div>
+
+<p class="custom-subtitle">`r fontawesome::fa("graduation-cap", fill = "#98A08D", a11y = "sem")` **BSc Honours Geographyand Environmental Management, 2013**</p>  
+<p class="custom-subtitle2">University of KwaZulu Natal, Durban, South Africa</p>
+</div>
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
